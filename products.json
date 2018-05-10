@@ -1,0 +1,62 @@
+[
+  {
+    "name": "RCA Bluetooth Home Theater System",
+    "price": 158,
+    "image": "img/RCA.jpeg"
+  },
+  {
+    "name": "Bose Solo 5 TV sound system",
+    "price": 249,
+    "image": "img/Bose.jpeg"
+  },
+  {
+    "name": "LG Electronics BH5140S 500W Blu-Ray Home Theater",
+    "price": 149,
+    "image": "img/LG.jpeg"
+  },
+  {
+    "name": "Sharper Image SBT3009BK Home Theater In a Box 3.1",
+    "price": 69,
+    "image": "img/Sharper.jpeg"
+  },
+  {
+    "name": "beFree Sound 5.1 Channel Surround Sound Bluetooth",
+    "price": 88,
+    "image": "img/beFree.jpeg"
+  },
+  {
+    "name": "SuperMax Computer 5.1 Home theater system",
+    "price": 109,
+    "image": "img/SuperMax.jpeg"
+  },
+  {
+    "name": "Sony 7.2-Channel Home Theater AV Receiver, Black",
+    "price": 248,
+    "image": "img/Sony.jpeg"
+  },
+  {
+    "name": "Curtis 5.1 Channel DVD Home Theatre System, DVD5088",
+    "price": 69,
+    "image": "img/Curtis.jpeg"
+  },
+  {
+    "name": "Pyle PT628A 400W 5.1-Channel Home Theater System",
+    "price": 132,
+    "image": "img/Pyle.jpeg"
+  },
+  {
+    "name": "Naxa Nd-859 5.1 Home Theater System - Dvd Player",
+    "price": 68,
+    "image": "img/Naxa.jpeg"
+  },
+  {
+    "name": "Yamaha YHT-3920UBL 5.1-Channel Home Theater in a Box",
+    "price": 429,
+    "image": "img/Yamaha.jpeg"
+  },
+  {
+    "name": "Technical Pro MS500BT 500W 2.1Ch Bluetooth Stereo",
+    "price": 84,
+    "image": "img/Technical.jpeg"
+  }
+]
